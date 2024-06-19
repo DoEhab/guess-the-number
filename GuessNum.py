@@ -12,7 +12,6 @@ def guess(x):
 
     print (f'yayyy correct number {random_number}')
 
-
 def computer_guess(x):
     feedback = ''
     low = 0
